@@ -33,5 +33,5 @@ I would recommend looking at this [Youtube Video](#resources) since he does a gr
 
 ## Future Edits
 
-* Utilize other APIs (such as the NASA api) to create more random background images
-* Make it generalizable for other operating systems
+- [ ] Utilize other APIs (such as the NASA api) to create more random background images
+- [ ] Make it generalizable for other operating systems
