@@ -1,6 +1,6 @@
 # Random Desktop Background Pokemon
 
-The purpose of this project was to show how to automate certain processes using python for the Tufts Coding 101 Pre-College Course. The script leverages the [Pokemon API](https://pokeapi.co)
+The purpose of this project was to show how to automate certain processes using python for the [Tufts Coding 101 Pre-College Course](https://universitycollege.tufts.edu/high-school/programs/coding-101). The script leverages the [Pokemon API](https://pokeapi.co)
 
 ## Source
 
