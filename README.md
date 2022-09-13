@@ -1,6 +1,6 @@
 # Random Desktop Background Pokemon
 
-The purpose of this project was to show how to automate certain processes using python for the Tufts Coding 101 Pre-College Course. The script leverages the [Pokemon API](https://pokeapi.co)
+The purpose of this project was to show how to automate certain processes using python for the [Tufts Coding 101 Pre-College Course](https://universitycollege.tufts.edu/high-school/programs/coding-101). The script leverages the [Pokemon API](https://pokeapi.co)
 
 ## Source
 
@@ -13,7 +13,10 @@ In a terminal, run:
 1. `python3 -m venv env` to generate a virtual environment
 2. `. env/bin/activate` to start up the virtual environment
 3. `pip3 install -r requirements.txt` to download all of the required libraries
-4. `python3 get_pokemon_background.py` to get a new background
+
+You then must go into `get_pokemon_background.py` and change the variable called `FILENAME` towards the top of the file to be where you directory is located (Run `pwd` in the terminal to get an idea if you are not sure how to do that)
+
+Finally, run `python3 get_pokemon_background.py` to get a new background
 
 You can edit the way that it looks by going to System Preferences -> Desktop & Screen Saver and adjusting the images there
 
@@ -35,5 +38,5 @@ Additionally, if it doesn't run and you are running it on MacOS, you will probab
 
 ## Future Edits
 
-* Utilize other APIs (such as the NASA api) to create more random background images
-* Make it generalizable for other operating systems
+- [ ] Utilize other APIs (such as the NASA api) to create more random background images
+- [ ] Make it generalizable for other operating systems
