@@ -25,6 +25,8 @@ Cronjobs are tasks that can run at an interval that you set. To read more, [look
 
 I would recommend looking at this [Youtube Video](#resources) since he does a great job of explaining it
 
+Additionally, if it doesn't run and you are running it on MacOS, you will probably need to allow the cron command to have full disk access. Here is the [stack overflow post](https://stackoverflow.com/questions/62876343/permissionerror-errno-1-operation-not-permitted-users-local-path-venv-py) I used to fix this problem
+
 ## Resources
 
 * [Youtube Video Inspiration](https://www.youtube.com/watch?v=5bTkiV_Aadc)
